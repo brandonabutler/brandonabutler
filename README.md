@@ -76,11 +76,14 @@
 <!--   CREDENTIAL VERIFICATION -->
 <!-- ========================= -->
 
-<p align="center">
-  <strong>Credential Verification</strong><br>
-  West Virginia University – Bachelor of Arts in Criminology (2025)<br>
-  CeDiD: <strong>26VF-WKG5-BBRX</strong><br>
+<div align="center">
+  <strong>CREDENTIAL VERIFICATION</strong><br>
+  West Virginia University — Bachelor of Arts in Criminology (2025)<br>
+  CeCredential ID: <strong>26VF-WKG5-BBRX</strong><br>
   <a href="https://apps.wvu.edu/diploma-request/credentials/validate" target="_blank">
     Validate Credential
+  </a> ·
+  <a href="CeD.26VF-WKG5-BBRX.pdf" target="_blank">
+    View Official Diploma (PDF)
   </a>
-</p>
+</div>
