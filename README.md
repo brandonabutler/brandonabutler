@@ -23,6 +23,18 @@
 <p align="center">
   Graduate student currently pursuing a Master of Science in Cybersecurity (Empire State University) with a Bachelor of Arts in Criminology (West Virginia University, 2025). Interests include cybersecurity, behavioral analysis, and investigative work.
 </p>
+
+<br>
+
+<p align="center">
+  <img
+    src="F524B3D3-8152-45A3-BE17-33ABBD0AB0CB.jpeg"
+    alt="Brandon A. Butler graduation photo"
+    width="260"
+    style="border-radius:6px;"
+  />
+</p>
+
 <br>
 
 <!-- ========================= -->
