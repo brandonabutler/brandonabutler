@@ -1,4 +1,4 @@
 <div align="center">
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/brandonabutler/count.svg" alt="Visitor's Count" />
+  <p>Thanks For Visiting!</p>
+  <img src="https://komarev.com/ghpvc/?username=brandonabutler&style=flat-square" alt="Profile Views" />
 </div>
